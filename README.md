@@ -33,6 +33,7 @@ Check out Jammming [here](http://jammjamm.surge.sh/)
 
 ## Installation
 No installation required. Navigate to Jammming here: http://jammjamm.surge.sh/
+Must be logged into Spotify in order to save playlist to your account!
 
 ## Usage
 
@@ -45,4 +46,4 @@ USER MUST BE LOGGED IN TO SPOTIFY IN ORDER TO SAVE TO SPOTIFY.
 </p>
 
 ## Deployment
-[ChromaCove](http://jammjamm.surge.sh/)
+### [Jammming](http://jammjamm.surge.sh/)
