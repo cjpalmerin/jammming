@@ -40,5 +40,9 @@ No installation required. Navigate to Jammming here: http://jammjamm.surge.sh/
 
 USER MUST BE LOGGED IN TO SPOTIFY IN ORDER TO SAVE TO SPOTIFY.
 
+<p align="center">
+  <img src="https://github.com/cjpalmerin/jammming/blob/master/client/src/assets/images/Screen%20Shot%202020-07-16%20at%202.01.04%20PM.png?raw=true">
+</p>
+
 ## Deployment
 [ChromaCove](http://jammjamm.surge.sh/)
