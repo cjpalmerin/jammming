@@ -36,8 +36,7 @@ No installation required. Navigate to Jammming here: http://jammjamm.surge.sh/
 Must be logged into Spotify in order to save playlist to your account!
 
 ## Usage
-
-* Navigate to [Jamming](http://jammjamm.surge.sh/). User can search for songs or artists using the search bar and click on the + button to add to their playlist. If user wants to remove the song they can click on the - in the playlist section. User can also name the playlist by clicking on the "New Playlist" title.
+Navigate to [Jamming](http://jammjamm.surge.sh/). User can search for songs or artists using the search bar and click on the + button to add to their playlist. If user wants to remove the song they can click on the - in the playlist section. User can also name the playlist by clicking on the "New Playlist" title.
 
 USER MUST BE LOGGED IN TO SPOTIFY IN ORDER TO SAVE TO SPOTIFY.
 

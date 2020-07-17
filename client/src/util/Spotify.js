@@ -1,5 +1,7 @@
 const clientId = process.env.REACT_APP_CLIENT_ID
 const redirectURI = process.env.REACT_APP_REDIRECT_URI
+// const redirectURI = "http://localhost:3000"
+
 
 let accessToken;
 
@@ -40,13 +42,15 @@ const Spotify = {
                 if (!jsonResponse.tracks) {
                     return [];
                 }
-                return jsonResponse.tracks.items.map(track => ({
+                return jsonResponse.tracks.items.map((track) => ({
                     id: track.id,
                     name: track.name,
                     artist: track.artists[0].name,
                     album: track.album.name,
-                    uri: track.uri
-                }));
+                    uri: track.uri,
+                    popularity: track.popularity
+                })
+                );
             })
     },
     savePlayList(name, trackURIs) {
